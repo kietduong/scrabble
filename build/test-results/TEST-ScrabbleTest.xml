@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-09-07T18:15:23" hostname="staff-9.local" time="0.001">
+  <properties/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1" classname="ScrabbleTest" time="0.001"/>
+  <testcase name="calculateScore_returnsScoreForWord_7" classname="ScrabbleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
